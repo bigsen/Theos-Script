@@ -11,7 +11,7 @@ function_installTheos(){
     echo "如有提示Password，请输入系统登录密码。"
 
     # 下载安装theos，这个theos是本人已经修改过的，已经放入ldid，dpkg等
-    sudo git clone https://github.com/DaSens/Theos.git $THEOS
+    sudo git clone https://github.com/bigsen/Theos.git $THEOS
 
     # 设置文件权限
     sudo chmod 777 $OSldid
