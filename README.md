@@ -1,5 +1,5 @@
 # Theos-Script
-Theos Script
+##### 主要进行自动安装theos工具。
 
 ##### 下载完，执行：./TheosScript.sh
 
